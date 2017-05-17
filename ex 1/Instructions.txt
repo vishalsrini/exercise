@@ -1,0 +1,7 @@
+Need to satisfy below items:
+
+1. Do this using Javascript
+2. You must use "this" keyword in your javascript file
+3. once I click "click me!" button then it need to be renamed as "Clicked" and "vishal" need to be renamed as "changed to Balaji"
+
+Duration - One day
